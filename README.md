@@ -20,7 +20,7 @@
 - `rm -rf ASHIK-R`
 - `git clone https://github.com/RX-ASHIK/ASHIK-R`
 - `cd ASHIK-R`
-- `python ASHIK-V2.0.py`
+- `python ASHIK-V3.py`
      
  _RUN COMMANDS_
 - `cd ASHIK-R`
