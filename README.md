@@ -25,7 +25,7 @@
  _RUN COMMANDS_
 - `cd ASHIK-R`
 - `chmod +x *`
-- `python ASHIK-V2.0.py`
+- `python ASHIK-R-V5.py`
 
  ```Note : This Tools is Piad File clone  Tool ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASHIK-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801935091078)
