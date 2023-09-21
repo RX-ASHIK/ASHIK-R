@@ -2,4 +2,4 @@
 # FB LINK : https://www.facebook.com/ashik.khan444
 # Alhamdulillah for everything 👉❤️👈
 # -------------------------------
-print:fuck
+print(f"{warna} 6v came for 6:00 pm @everyone")
