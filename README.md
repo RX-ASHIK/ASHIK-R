@@ -20,12 +20,12 @@
 - `rm -rf ASHIK-R`
 - `git clone https://github.com/RX-ASHIK/ASHIK-R`
 - `cd ASHIK-R`
-- `python ASHIK-R-6.py`
+- `python ASHIK-R-6-1.py`
      
  _RUN COMMANDS_
 - `cd ASHIK-R`
 - `chmod +x *`
-- `python ASHIK-R-6.py`
+- `python ASHIK-R-6-1.py`
 
  ```Note : This Tools is Piad File clone  Tool ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASHIK-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801935091078)
